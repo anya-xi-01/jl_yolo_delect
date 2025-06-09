@@ -35,5 +35,5 @@ seaborn>=0.11.0
 thop==0.1.1-2209072238
 
 torch==2.0.0
-torchvision==0.15.0
+torchvision==0.22.1
 flask==3.0.3
